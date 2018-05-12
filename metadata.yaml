@@ -1,0 +1,33 @@
+_repo: Fausto-Bragiae-altre-novelle_42505
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42505-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2013-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42505'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+tableOfContents: 'Dedica -- Parte prima: Fausto Bragia. Un carattere. Confessione.
+  Ofelia. Evocazione -- Parte seconda: Zampone. Il primo maggio del dottor Piccottini.
+  Amore libero. La vendetta d''un baritono -- Parte terza: Dramma segreto. La Mercede.
+  A una bruna.'
+title: Fausto Bragia, e altre novelle
+url: http://www.gutenberg.org/ebooks/42505
